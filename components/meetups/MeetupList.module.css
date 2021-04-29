@@ -1,0 +1,11 @@
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  color: #6D4444;
+  font-size: 120%;
+  /* position: relative;
+  display:flex; */
+  /* flex-flow: row wrap; */
+  
+}
